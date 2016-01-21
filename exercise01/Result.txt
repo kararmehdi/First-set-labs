@@ -1,0 +1,28 @@
+01-18 11:28:46.977 3505-3505/com.example.stallions.exercise01 D/Activity: performCreate Call secproduct feature valuefalse
+01-18 11:28:46.977 3505-3505/com.example.stallions.exercise01 D/Activity: performCreate Call debug elastic valuetrue
+01-18 11:28:46.977 3505-3505/com.example.stallions.exercise01 D/States: MainActivity: onStart()
+01-18 11:28:46.977 3505-3505/com.example.stallions.exercise01 D/States: MainActivity: onResume()
+01-18 11:28:46.997 3505-3551/com.example.stallions.exercise01 D/OpenGLRenderer: Render dirty regions requested: true
+01-18 11:28:47.047 3505-3551/com.example.stallions.exercise01 I/Adreno-EGL: <qeglDrvAPI_eglInitialize:410>: EGL 1.4 QUALCOMM build:  ()
+                                                                            OpenGL ES Shader Compiler Version: E031.25.03.06
+                                                                            Build Date: 01/24/15 Sat
+                                                                            Local Branch: AF11_RB1_AU15
+                                                                            Remote Branch: 
+                                                                            Local Patches: 
+                                                                            Reconstruct Branch: 
+01-18 11:28:47.077 3505-3551/com.example.stallions.exercise01 I/OpenGLRenderer: Initialized EGL, version 1.4
+01-18 11:28:47.147 3505-3551/com.example.stallions.exercise01 D/OpenGLRenderer: Enabling debug mode 0
+01-18 11:28:47.327 3505-3505/com.example.stallions.exercise01 I/Timeline: Timeline: Activity_idle id: android.os.BinderProxy@16f2ea5 time:78095877
+
+					This is what happens when the orientation changes to landscape:		
+
+01-18 11:28:53.163 3505-3505/com.example.stallions.exercise01 D/ViewRootImpl: ViewPostImeInputStage ACTION_DOWN
+01-18 11:29:20.540 3505-3505/com.example.stallions.exercise01 D/States: MainActivity: onPause()
+01-18 11:29:20.540 3505-3505/com.example.stallions.exercise01 D/States: MainActivity: onStop()
+01-18 11:29:20.540 3505-3505/com.example.stallions.exercise01 D/States: MainActivity: onDestroy()
+01-18 11:29:20.660 3505-3505/com.example.stallions.exercise01 D/Activity: performCreate Call secproduct feature valuefalse
+01-18 11:29:20.660 3505-3505/com.example.stallions.exercise01 D/Activity: performCreate Call debug elastic valuetrue
+01-18 11:29:20.660 3505-3505/com.example.stallions.exercise01 D/States: MainActivity: onStart()
+01-18 11:29:20.660 3505-3505/com.example.stallions.exercise01 D/States: MainActivity: onResume()
+01-18 11:29:20.740 3505-3505/com.example.stallions.exercise01 E/ViewRootImpl: sendUserActionEvent() mView == null
+01-18 11:29:20.770 3505-3505/com.example.stallions.exercise01 I/Timeline: Timeline: Activity_idle id: android.os.BinderProxy@16f2ea5 time:78129315
